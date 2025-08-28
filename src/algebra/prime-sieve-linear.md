@@ -96,3 +96,7 @@ Knowing the factorizations of all numbers is very useful for some tasks, and thi
 ## References
 
 - Paul Pritchard, **Linear Prime-Number Sieves: a Family Tree**, Science of Computer Programming, vol. 9 (1987), pp.17-35.
+
+## Practice Problems
+
+* [SPOJ - Divisor Summation Leetcode - Four Divisors](https://www.spoj.com/problems/DIVSUM/)
